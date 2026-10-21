@@ -5,16 +5,15 @@
 I am a student at upgrad school of technology,currently learning Git and GitHub.
 
 ## skills
--Communication
--Problem Solving
--Basic Git
+- Communication
+- Problem Solving
+- Basic Git
 
 ## Projects
 
--LMS: one line about it
--CMS: one line about it
+- LMS: one line about it
+- CMS: one line about it
 
-## Social Links
--GitHub: gwduhshc
--LinkdIn: jgdjdewgdkhgbkd
+## Contact
+- Email: santanijheel@gmail.com
 
